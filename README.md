@@ -1,1 +1,1 @@
-# CNN-_model_project
+plant_disease_detection
